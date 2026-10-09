@@ -16,4 +16,6 @@ O projeto vai utilizar um arduino e o sensor apenas
 |-----|------------|
 | 1 | Placa Arduino UNO |
 | 1 | Sensor ultrasonico HC-SR04 |
+| 1 | Led |
+| 1 | Resistor 220Ω |
 | — | Fios de jumper macho-macho |
