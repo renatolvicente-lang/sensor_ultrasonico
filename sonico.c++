@@ -4,7 +4,7 @@
 #define pinEcho 12
 #define led 26
 
-NewPing sonar(pinTrig, pinEcho, 400);// cria um objeto "sonar" onde é guardado o numero do pino do trigger, do echo e da distancia máxima
+NewPing sonar(pinTrig, pinEcho, 400);// cria um objeto "sonar" onde é guardado o numero do pino do trigger, do echo e a distancia máxima
 
 void setup() {
 
