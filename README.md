@@ -8,7 +8,7 @@ Exemplo de como ultilizar o sensor ultrasonico para projetos
 O projeto vai utilizar um arduino e o sensor apenas
 * Sensor manda dado
 * Arduino lê o dado do sensor
-* Arduino exibe o dado no terminal
+* Arduino acende o led
 
 ## Materiais nescessários
 
